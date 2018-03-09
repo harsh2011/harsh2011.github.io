@@ -229,6 +229,7 @@ iframe {
 }
 .latest .featured-image {
   position: relative;
+  text-align: left;
 }
 .latest .featured-image .text {
   background: #3aaa64;
@@ -523,6 +524,7 @@ iframe {
   }
   .project-image {
     margin-bottom: 15px;
+    float: left;
   }
 }
 /* Small devices (tablets, 768px and up) */
